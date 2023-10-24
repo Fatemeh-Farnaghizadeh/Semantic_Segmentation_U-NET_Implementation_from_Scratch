@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/unet-semantic-segmentation.git
+   git clone https://github.com/Fatemeh-Farnaghizadeh/Semantic_Segmentation_UNET_Implementation_from_Scratch.git
    cd Semantic_Segmentation
 
 2. create python Venv and install project requirements:
