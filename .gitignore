@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+SegVenv/
+.vscode/
+data/
