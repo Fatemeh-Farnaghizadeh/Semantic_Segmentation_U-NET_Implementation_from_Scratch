@@ -7,7 +7,7 @@ This repository contains an implementation of the U-Net architecture for semanti
 - [About the Project](#about-the-project)
 - [Dataset](#dataset)
 - [Getting Started](#getting-started)
-- [Results](#results)
+
 
 ## About the Project
 
@@ -43,6 +43,3 @@ To get started with this project, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-## Results
-
-You can download the pre-trained model from [this link](saved_model.pth).
