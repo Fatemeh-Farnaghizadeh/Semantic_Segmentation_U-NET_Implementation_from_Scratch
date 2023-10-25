@@ -3,3 +3,4 @@ __pycache__/
 SegVenv/
 .vscode/
 data/
+saved_model.pth
